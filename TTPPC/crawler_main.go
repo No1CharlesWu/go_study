@@ -27,6 +27,6 @@ func testZb() {
 	crawler.Zb()
 }
 
-// func testBinance() {
-// crawler.Binance()
-// }
+func testBinance() {
+	crawler.Binance()
+}
